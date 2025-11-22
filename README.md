@@ -4,7 +4,6 @@ A modern, enterprise-friendly backend framework for Bun. Lightweight. Fast. Desi
 
 [![NPM Version](https://img.shields.io/npm/v/@karin-js/core)](https://www.npmjs.com/package/@karin-js/core)
 [![Bun Version](https://img.shields.io/badge/bun-%3E%3D1.0.0-lightgrey?logo=bun)](https://bun.sh/)
-[![License](https://img.shields.io/npm/l/@karin-js/core)](https://github.com/your-username/karin-js/blob/main/LICENSE)
 
 ## What is Karin-JS?
 
@@ -45,10 +44,14 @@ Karin-JS, using H3Adapter, handled over **10 times more requests per second** th
 
 ### Benchmark Images
 
-<p align="center">
-  <img src="./docs/oha-karinjs-h3-bench.png" width="300" alt="Karin-JS H3 Benchmark" />
-  <img src="./docs/oha-karinjs-hono-bench.png" width="300" alt="Karin-JS Hono Benchmark" />
-  <img src="./docs/oha-nestjs-bench.png" width="300" alt="NestJS Benchmark" />
+| Karin-JS (H3) | Karin-JS (Hono) | NestJS |
+| :-----------: | :-------------: | :----: |
+
+<palign="center">
+<img src="./docs/oha-karinjs-h3-bench.png" width="250" alt="Karin-JS H3 Benchmark" />
+<img src="./docs/oha-karinjs-hono-bench.png" width="250" alt="Karin-JS Hono Benchmark" />
+<img src="./docs/oha-nestjs-bench.png" width="250" alt="NestJS Benchmark" />
+
 </p>
 
 </details>

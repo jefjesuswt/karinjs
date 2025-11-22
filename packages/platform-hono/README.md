@@ -3,8 +3,7 @@
 The Hono platform adapter for Karin-JS, offering **broad compatibility** for Edge and Serverless environments (Cloudflare Workers, Deno Deploy, etc.).
 
 [![NPM Version](https://img.shields.io/npm/v/@karin-js/platform-hono)](https://www.npmjs.com/package/@karin-js/platform-hono)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/karin-js/ci.yml?branch=main)](https://github.com/your-username/karin-js/actions)
-[![Bun Version](https://img.shields.io/badge/bun-%3E%3D1.0.0-lightgrey?logo=bun)](https://bun.sh/)
+[![Bun Version](https://img.shields.io/badge/bun-%3E%3D1.2.10-lightgrey?logo=bun)](https://bun.sh/)
 [![License](https://img.shields.io/npm/l/@karin-js/platform-hono)](https://github.com/your-username/karin-js/blob/main/LICENSE)
 
 ---
