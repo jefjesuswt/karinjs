@@ -1,5 +1,11 @@
 # @karin-js/core
 
+## 0.1.3
+
+### Patch Changes
+
+- docs: Update core README to reflect multi-platform benchmark data
+
 ## 0.1.2
 
 ### Patch Changes
