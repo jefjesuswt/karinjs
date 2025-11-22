@@ -1,5 +1,13 @@
 # @karinjs/platform-h3
 
+## 0.0.6
+
+### Patch Changes
+
+- 266465a: feat: Implement HTTP Exception Subsystem and Hono Adapter
+- Updated dependencies [266465a]
+  - @karin-js/core@0.1.0
+
 ## 0.0.5
 
 ### Patch Changes
